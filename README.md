@@ -27,7 +27,7 @@ It supports following features:
  
  
  <p align="center">
-  <img src="screenshots/prediction_result.png" width="70%" height="70%" />
+  <img src="prediction_result.png" width="70%" height="70%" />
  </p>
                                                                            
 Quick start
