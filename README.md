@@ -1,4 +1,4 @@
-# Heart Disease Prediction System using Data Analytics
+# Visualazing And Predicting Heart Diseases With An Interactive Dashboard using Data Analytics
 >The aim of this project is to Visualizing And Predicting heart disease using data mining techniques and Data Analytics algorithms.This project implements 4 classificiation models using scikit-learn: Logistic Regression, Naïve Bayes, Support Vector Classifier and Decision Tree Model to investigate their performance on heart disease datasets obtained from the UCI data repository.
 
 All the Data Analytics features can be viewed here: [Data Analytics features]
