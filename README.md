@@ -10,19 +10,19 @@ It supports following features:
 *	User can enter the values of various parameters on the basis of which his risk factor will be calculated using machine learning algorithms.
 
 <p align="center">
-<img src="screenshots/About us.png" width="70%" height="70%" />
+<img src="About us.png" width="70%" height="70%" />
 </p>
 
 <p align="center">
-<img src="screenshots/Login.png" width="70%" height="70%" />
+<img src="Login.png" width="70%" height="70%" />
 </p>
 
 <p align="center">
- <img src="screenshots/Signup.png" width="70%" height="70%" />
+ <img src="Signup.png" width="70%" height="70%" />
  </p>
  
  <p align="center">
-  <img src="screenshots/prediction_page_filled.png" width="70%" height="70%" />
+  <img src="prediction_page_filled.png" width="70%" height="70%" />
  </p>
  
  
