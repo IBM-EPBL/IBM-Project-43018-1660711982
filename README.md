@@ -37,5 +37,10 @@ Quick start
 3. python manage.py migrate
 4. python manage.py runserver
 
+Team Members
+TL - P. MOHAN
+TM1 - P. GRANAF
+TM2 - MOHAMMED JABIR
+TM3 - MUZHAMIL BASHA
 
 
