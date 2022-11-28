@@ -38,9 +38,9 @@ Quick start
 4. python manage.py runserver
 
 **Team Members**
-TL - P. MOHAN
-TM1 - P. GRANAF
-TM2 - MOHAMMED JABIR
+TL - P. MOHAN,
+TM1 - P. GRANAF,
+TM2 - MOHAMMED JABIR,
 TM3 - MUZHAMIL BASHA
 
 
