@@ -2,9 +2,9 @@
 # IBM-Project-43018-1660711982
 Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 # TEAM LEADER
-# MOHAN P
+MOHAN P
 
 # TEAM MEMBERS
-# 1. GRANAF P
-# 2. MOHAMMED JABIR S
-# 3. MUZAMIL BASHA M.Y
+1. GRANAF P
+2. MOHAMMED JABIR S
+3. MUZAMIL BASHA M.Y
